@@ -126,8 +126,7 @@
 # 📫 Contact
 
 - GitHub : https://github.com/cjh-devv
-- Email : 이메일 작성
-
+- Email : cjh900318@gmail.com
 ---
 
 ### 🚀 꾸준히 성장하는 개발자가 되겠습니다.
