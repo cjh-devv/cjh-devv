@@ -25,11 +25,13 @@
 
 # 🙋 About Me
 
-- 💻 웹과 모바일 앱의 전체 개발 흐름을 경험했습니다.
-- 🔧 Java와 Spring Boot를 활용한 서버 기능 구현 경험이 있습니다.
-- 🗄 MySQL과 Oracle을 활용한 데이터베이스 연동 및 SQL 작성 경험이 있습니다.
-- 🔔 결제·환불, 사용자 알림 및 관리자 기능을 구현했습니다.
-- ☁ AWS EC2를 활용한 프로젝트 배포 과정을 경험했습니다.
+- 💻 웹과 모바일 앱의 전체 개발 흐름을 경험
+- 🔧 Java와 Spring Boot를 활용한 서버 기능 구현
+- 🗄 MySQL과 Oracle을 활용한 데이터베이스 연동 및 SQL 작성
+- 🔔 결제·환불, 사용자 알림 및 관리자 기능을 구현
+- 🗄 개인 프로젝트의 DB 구조와 테이블 관계 설계
+- 🔧 결제·환불, 알림 및 관리자 운영 기능 구현
+- 📊 관리자 통계 대시보드 일부 구현
 - 📝 오류의 발생 조건과 해결 과정을 기록하는 습관이 있습니다.
 - 📚 정보처리기사를 취득했습니다.
 - 🎓 AI 활용 풀스택 부트캠프를 수료할 예정입니다.
@@ -64,6 +66,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -77,13 +80,13 @@
 
 ### 담당 기능
 
-- PortOne API를 활용한 패스 결제 기능
-- 외부 결제 정보와 서버 상품 정보 비교 검증
+- PortOne API를 활용한 패스 결제 및 결제 정보 검증
+- 패스 구매 내역 저장과 사용자 보유 수량 반영
 - 구매 수량과 잔여 수량을 기준으로 한 환불 조건 처리
-- 결제 내역 저장 및 사용자 보유 패스 수량 반영
-- 댓글·좋아요·문의 답변·신고 처리 결과에 따른 알림 기능
-- 사용자별 알림 조회 및 읽음 상태 관리
+- 댓글·좋아요·문의 답변 등에 따른 사용자 알림 기능
 - 회원·신고·문의·상품·쿠폰·패스 관리자 기능
+- 신고 접수 내역 조회 및 승인·반려 등 관리자 처리 기능
+- 관리자 페이지의 일부 통계 데이터 조회 및 차트 구현
 
 ### 문제 해결 경험
 
@@ -103,10 +106,12 @@
 
 ### 담당 기능
 
-- JWT 기반 회원 인증
-- 게시글 CRUD 및 코드 블록 등록
+- 회원, 게시글, 댓글, 태그, 좋아요, 북마크, 팔로우 데이터의
+  테이블 관계와 제약조건 설계
+- JWT 기반 회원 인증 및 로그인 상태 관리
+- 게시글 CRUD와 코드 블록 등록
 - 댓글·좋아요·북마크·팔로우 기능
-- 키워드 및 태그 검색
+- 게시글과 태그의 관계 구성 및 태그 검색
 - 사용자 프로필과 활동 내역 관리
 
 ### 문제 해결 경험
