@@ -137,9 +137,9 @@
 
 # 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-devv&show_icons=true)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=cjh-devv&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh-devv&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=cjh-devv&layout=compact&theme=dracula)
 
 ---
 
