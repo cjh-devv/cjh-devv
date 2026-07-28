@@ -70,6 +70,7 @@
 ## 🎀 MerryView(팀 프로젝트)
 > 실제 구매 영수증을 기반으로 웨딩 업체 리뷰와 결혼 정보를 공유하는 커뮤니티 플랫폼
 <img src="./images/marryViewMain.JPG" width="1000">
+
 ### 담당 기능
 
 - PortOne API를 활용한 패스 결제 및 결제 정보 검증
@@ -91,7 +92,8 @@
 
 ## 💻 Code.Snippet(개인 프로젝트)
 > 개발 학습 내용과 오류 해결 경험을 코드와 함께 기록하고 공유하는 서비스
-<img src="./images/Code.snippet_banner.png" width="1000"> 
+<img src="./images/Code.snippet_banner.png" width="1000">
+
 ### 담당 기능
 
 - 회원·게시글·댓글·태그·좋아요·북마크·팔로우 DB 설계
