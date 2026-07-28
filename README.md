@@ -91,7 +91,7 @@
 
 ## 💻 Code.Snippet(개인 프로젝트)
 > 개발 학습 내용과 오류 해결 경험을 코드와 함께 기록하고 공유하는 서비스
-<img src="./images/Code.snippet_banner.png" width="1000">
+<img src="./images/Code.snippet_banner.png" width="1000"> 
 ### 담당 기능
 
 - 회원·게시글·댓글·태그·좋아요·북마크·팔로우 DB 설계
