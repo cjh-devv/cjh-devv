@@ -68,9 +68,8 @@
 # 📂 Projects
 
 ## 🎀 MerryView(팀 프로젝트)
-<img src="./images/marryViewMain.JPG" width="800">
 > 실제 구매 영수증을 기반으로 웨딩 업체 리뷰와 결혼 정보를 공유하는 커뮤니티 플랫폼
-
+<img src="./images/marryViewMain.JPG" width="800">
 ### 담당 기능
 
 - PortOne API를 활용한 패스 결제 및 결제 정보 검증
