@@ -73,6 +73,15 @@
 <img src="./images/marryViewMain.JPG" width="800" height="300">
 </div>
  
+### 개발 환경 및 언어
+
+- Spring Boot
+- JAVA
+- JAVASCRIPT
+- MyBatis
+- MySQL
+- Vue.js
+  
 ### 담당 기능
 
 - PortOne API를 활용한 패스 결제 및 결제 정보 검증
@@ -98,6 +107,16 @@
 <img src="./images/Code.snippet_banner.png" width="800" height="300">
 </div>
  
+### 개발 환경 및 언어
+
+- React
+- Express
+- JavaScript
+- Node.js
+- Oracle DB
+- Git
+- GitHub
+
 ### 담당 기능
 
 - 회원·게시글·댓글·태그·좋아요·북마크·팔로우 DB 설계
