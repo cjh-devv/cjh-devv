@@ -76,11 +76,13 @@
 ### 개발 환경 및 언어
 
 - Spring Boot
-- JAVA
-- JAVASCRIPT
+- Java
+- JavaScript
+- Vue.js
 - MyBatis
 - MySQL
-- Vue.js
+- Git
+- GitHub
   
 ### 담당 기능
 
