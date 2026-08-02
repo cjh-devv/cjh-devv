@@ -18,6 +18,10 @@
 
 </div>
 
+- GitHub: [cjh-devv](https://github.com/cjh-devv)
+- Portfolio: https://docs.google.com/presentation/d/12Ol7jE3ie6CO8bIQWfq7zbRdpym2xSaf/edit?usp=drive_link&ouid=109234818455404358768&rtpof=true&sd=true
+- Email: cjh900318@gmail.com
+
 ---
 
 # 🙋 About Me
@@ -157,13 +161,6 @@
 ![GitHub stats](https://github-readme-stats.shion.dev/api?username=cjh-devv&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=cjh-devv&layout=compact&theme=dracula)
-
----
-
-# 📫 Contact
-
-- GitHub: [cjh-devv](https://github.com/cjh-devv)
-- Email: cjh900318@gmail.com
 
 ---
 
