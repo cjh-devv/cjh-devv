@@ -28,11 +28,9 @@
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googleslides&logoColor=white">
 </a>
 
-<br><br>
-
-📧 cjh900318@gmail.com
-
+<br>
 </div>
+📧 cjh900318@gmail.com
 
 ---
 
