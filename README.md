@@ -14,13 +14,16 @@
 
 오류가 발생하면 결과만 수정하기보다 원인을 확인하고,  
 해결 과정과 주의 사항을 기록하며 꾸준히 성장하고 있습니다.
+
 <br>
 
-</div>
+🔗 Links
 
-- GitHub: [cjh-devv](https://github.com/cjh-devv)
-- Portfolio: https://docs.google.com/presentation/d/12Ol7jE3ie6CO8bIQWfq7zbRdpym2xSaf/edit?usp=drive_link&ouid=109234818455404358768&rtpof=true&sd=true
-- Email: cjh900318@gmail.com
+GitHub ·
+Portfolio ·
+Email
+
+</div>
 
 ---
 
