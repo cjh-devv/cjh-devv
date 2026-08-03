@@ -17,11 +17,19 @@
 
 <br>
 
-🔗 Links
+</div>
 
-GitHub ·
-Portfolio ·
-Email
+<div align="center">
+
+<a href="https://github.com/cjh-devv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://docs.google.com/presentation/d/12Ol7jE3ie6CO8bIQWfq7zbRdpym2xSaf/edit?usp=drive_link&ouid=109234818455404358768&rtpof=true&sd=true">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googleslides&logoColor=white">
+</a>
+<a href="mailto:cjh900318@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
